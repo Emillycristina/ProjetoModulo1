@@ -1,4 +1,4 @@
-div align="center"><img align="center" alt="Apocalipto" src= "/imagens/zumbi.png" height= "250px"></div>
+<div align="center"><img align="center" alt="Apocalipto" src= "/imagens/zumbi.png" height= "250px"></div>
 
 
 ## Criado por:
