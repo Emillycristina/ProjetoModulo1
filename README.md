@@ -2,8 +2,7 @@
 
 
 ## Criado por:
-
-Emilly Cristina <a href = "https://www.linkedin.com/in/emilly-finco/" target="_blank">LinkedIn</a>
+* ## Emilly Cristina <a href = "https://www.linkedin.com/in/emilly-finco/" target="_blank">LinkedIn</a>
 
 ## Módulo 1 - Jogo Apocalipto - ResiliaEducação
 
