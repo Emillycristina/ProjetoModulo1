@@ -17,3 +17,4 @@ Emilly Cristina <a href = "https://www.linkedin.com/in/emilly-finco/" target="_b
 
 
 <div align="center"><img align="center" alt="tecnologias" src= "/imagens/tecnologias.png" height= "300px" width="300px"></div>
+##
