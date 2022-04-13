@@ -1,0 +1,226 @@
+* {
+ margin: 0;
+ padding: 0; 
+}
+ body, html{
+  width: 100%;
+
+ }
+
+
+.cabeçalho{
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  height: 30px;
+}
+
+
+
+.row{
+    margin:0;
+}
+
+
+.container{
+    padding: 70px 0;
+}
+
+p,li{
+    color: gray;
+    font-size: 14px;
+}
+
+header, .navbar{
+    background-color: rgba(0, 0, 0);
+
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom:0;
+}
+
+#logo{
+    width: 300px;
+    padding-left: 50px;
+}
+
+
+
+
+
+.navbar-brand{
+    padding: 0;
+    color: white;
+}
+
+.navbar-brand: :hover{
+   
+    color: white;
+}
+
+#navbar-links{
+    color: rgb(247, 244, 244);
+}
+
+#navbar-expand-lg .navbar-nav .nav-link{
+  padding: 1rem .8rem;
+}
+
+#home-menu{
+    color: rgb(164, 231, 150);
+    cursor: pointer;
+
+
+}
+
+#navbar-links a:hover{
+  background-color: blueviolet;
+
+}
+
+.main-btn{
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    float: left;
+    text-decoration: none;
+    background-color: blueviolet;
+    color: rgb(164, 231, 150);
+    width: 200px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px; 
+}
+
+.main-btn:hover{
+   background-color: rgb(164, 231, 150);
+   color: blueviolet;
+
+}
+
+#astronauta{
+  
+    width: 150px;
+    height: 100px;
+    border-radius: 40px;
+    justify-content: space-between;
+    padding-left: 10% ;
+    cursor: pointer;
+   
+   
+    
+}
+
+#detetive{
+    
+    width: 150px;
+    height: 100px;
+    border-radius: 40px;
+   justify-content: space-between;
+    padding-left: 10% ;
+    cursor: pointer;
+   
+}
+
+#soldado{
+   
+    width: 150px;
+    height: 100px;
+    border-radius: 40px;
+   justify-content: space-between;
+    padding-left: 10% ;
+    cursor: pointer;
+}
+
+h3{
+  color: blueviolet;
+  text-align: center;
+  padding-left: 8%;
+
+}
+
+
+
+#about-area{
+    background-color: black;
+}
+
+
+
+h5{
+    color: blueviolet ;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+.my-btn{
+ background-color: blueviolet;
+ color: rgb(164, 231, 150);
+ width: 200px;
+ height: 200px ;
+ border-radius: 10%;
+ margin-left: 10%;
+ padding: 10px 10px 10px 10px;
+ text-align: center;
+ text-decoration: none;
+
+}
+
+.my-btn:hover{
+  background-color: white;
+  text-decoration: none;
+  color: blueviolet;
+
+}
+
+.col-md-3 .card{
+    background-color: rgb(164, 231, 150);
+    padding-top: 50px;
+    margin-left: 20%;
+    
+    
+ 
+}
+
+.card-1{
+    margin-left: 5%;
+}
+
+.card2{
+    margin-left: 5%;
+
+}
+
+.card3{
+    margin-left: 5%;
+    
+}
+
+footer{
+   
+  background-color: blueviolet;  
+  box-shadow: 0 px -6 px  17 px  1 px  rgba ( 255 , 214 , 120 , 0,74 );
+  color: black;
+
+}
+
+#mao{
+  width: 200px;
+  height: 200px;
+  margin-bottom: -3%;
+
+}
+
+#zumbi2{
+width: 150px;
+height: 150px;
+margin-bottom: -3%;
+margin-left: 70%;
+    
+}
+
+
