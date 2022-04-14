@@ -1,4 +1,5 @@
- <div align="center" alt="APOCALIPTO" src="imagens/zumbi.png"  height="250px" ></div>
+ 
+  <div align="center" alt="APOCALIPTO" src="imagens/zumbi.png"  height="250px" ></div>
 
 ##
 # PROJETO FEITO POR:
@@ -16,18 +17,17 @@
   
 > ## o JOGO
 > 
-><img src="imagens/paginainicial.png" height="200px" width="500px"><br />
-><img src="imagens/fase1.png" height="200px" width="500px"><br />
-><img src="imagens/fase2.png" height="200px" width="500px"><br />
-><img src="imagens/fase2.png" height="200px" width="500px"><br />
+><img src="imagens/paginainicial.png" height="300px" width="500px"><br />
+><img src="imagens/fase1.png" height="300px" width="500px"><br />
+><img src="imagens/fase2.png" height="300px" width="500px"><br />
+><img src="imagens/fase2.png" height="300px" width="500px"><br />
 ></div>
 
 ##
 
 
 
-> ## 👾 Tecnologias e Ferramentas Utilizadas 
- 
-><img src="imagens/tecnologias.png" height="500px" width="500px"><br />
-></div>
+> ## 👾 Tecnologias e Ferramentas Utilizadas 👾
 
+><img src="imagens/tecnologias.png" height="300px" width="500px"><br />
+></div>
