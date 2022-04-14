@@ -1,28 +1,33 @@
-<div align="center"><img align="center" alt="Apocalipto" src= "/imagens/zumbi.png" height= "250px"></div>
+ <div align="center" alt="APOCALIPTO" src="imagens/zumbi.png"  height="250px" ></div>
 
-<div>
-## Criado por:
+##
+# PROJETO FEITO POR:
 
-* ## Emilly Cristina <a href = "https://www.linkedin.com/in/emilly-finco/" target="_blank">LinkedIn</a>
-
-</div>
-
-<div align= "center">
-## Módulo 1 - Jogo Apocalipto - ResiliaEducação
-
-<img align="center" alt="Jogo" src= "/imagens/paginainicial.png" height= "300px" width="300px"><br />
-><img align="center" alt="Jogo" src= "/imagens/fase1.png" height= "300px" width="300px"><br />
-><img align="center" alt="Jogo" src= "/imagens/fase2.png" height= "300px" width="300px"><br />
-><img align="center" alt="Jogo" src= "/imagens/fase3.png" height= "300px" width="300px"><br />
-
-></div>
-
-<div align = "centro">
-
->## Tecnologias Utilizadas
+* ### Emilly <a href="https://www.linkedin.com/in/emilly-finco/" target="_blank">Linkedin <a href="https://github.com/Emillycristina" target="_blank">Github</a>
  
 
-><img align="center" alt="tecnologias" src= "/imagens/tecnologias.png" height= "300px" width="300px">
-></div>
+<div align="center">
+  
+# - Módulo 1 ResiliaEducação 
+
+
+
 ##
+  
+> ## o JOGO
+> 
+><img src="imagens/paginainicial.png" height="200px" width="500px"><br />
+><img src="imagens/fase1.png" height="200px" width="500px"><br />
+><img src="imagens/fase2.png" height="200px" width="500px"><br />
+><img src="imagens/fase2.png" height="200px" width="500px"><br />
+></div>
+
+##
+
+
+
+> ## 👾 Tecnologias e Ferramentas Utilizadas 
+ 
+><img src="imagens/tecnologias.png" height="500px" width="500px"><br />
+></div>
 
