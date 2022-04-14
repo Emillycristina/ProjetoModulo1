@@ -9,12 +9,11 @@
 
 <div align= "center">
 ## Módulo 1 - Jogo Apocalipto - ResiliaEducação
-  
 
-<img align="center" alt="Jogo" src= "/imagens/paginainicial.png" height= "300px" width="300px"><br /
-><img align="center" alt="Jogo" src= "/imagens/fase1.png" height= "300px" width="300px">
-><img align="center" alt="Jogo" src= "/imagens/fase2.png" height= "300px" width="300px"> 
-><img align="center" alt="Jogo" src= "/imagens/fase3.png" height= "300px" width="300px">
+<img align="center" alt="Jogo" src= "/imagens/paginainicial.png" height= "300px" width="300px"><br />
+><img align="center" alt="Jogo" src= "/imagens/fase1.png" height= "300px" width="300px"><br />
+><img align="center" alt="Jogo" src= "/imagens/fase2.png" height= "300px" width="300px"><br />
+><img align="center" alt="Jogo" src= "/imagens/fase3.png" height= "300px" width="300px"><br />
 
 ></div>
 
@@ -26,3 +25,4 @@
 ><img align="center" alt="tecnologias" src= "/imagens/tecnologias.png" height= "300px" width="300px">
 ></div>
 ##
+
